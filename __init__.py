@@ -1,1 +1,1 @@
-from phonetic.nato import nato
+from nato_phonetic.nato import nato
