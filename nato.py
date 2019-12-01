@@ -1,4 +1,9 @@
 def nato(in_str):
+	'''
+	This function can be used to convert a single word into its NATO equivalent
+
+	Returns -- A response string as well as a list of words in the respnse string
+	'''
 	phonetic_dict = {
 	"A" : "ALPHA",
 	"B" : "BRAVO",
