@@ -1,5 +1,3 @@
-import load_dict
-
 def nato(phonetic_dict, in_str):
 	'''
 	This function can be used to convert a sentence into its NATO equivalent
